@@ -85,7 +85,6 @@ The test suite covers:
 The codebase follows:
 - KISS (Keep It Simple, Stupid)
 - DRY (Don't Repeat Yourself)
-- Single Responsibility Principle
 - Clean Code practices
 
 ## Available Tokens
