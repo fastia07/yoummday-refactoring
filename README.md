@@ -1,5 +1,3 @@
-# ❗ Please do not fork this repository ❗
-
 # Yoummday Permission Handler
 A PHP-based permission handling service that verifies token permissions through a RESTful API endpoint.
 
